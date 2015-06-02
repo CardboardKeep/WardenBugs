@@ -1,4 +1,4 @@
-Click Issues or the circled exclamation mark over on the right side of the page to get to the Issue Tracker ->
+Click Issues or the circled exclamation mark over on the right side of the page to get to the Issue Tracker =>
 
 Remember when submitting issues:
  1. Give a clear and detailed description, and summarize it in the title
